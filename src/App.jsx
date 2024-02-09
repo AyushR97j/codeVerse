@@ -3,8 +3,8 @@ import './App.css'
 function App() {
 
   return (
-    <div>
-      Hi
+    <div className='font-bold'>
+      CodeVerse
     </div>
   )
 }
